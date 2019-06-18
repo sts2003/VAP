@@ -8,9 +8,5 @@
 </head>
 <body>
 
-
-정예림UA
-방효진AA
-
 </body>
 </html>
